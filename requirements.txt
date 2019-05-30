@@ -1,0 +1,10 @@
+open cv
+numpy
+face_recognition
+imutils
+mysql.connector
+jason
+dlib
+requests
+os
+tkinter
