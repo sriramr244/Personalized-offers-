@@ -12,7 +12,6 @@ The personalized offers is  starting to be trend in this buzzing world. The reta
 
 
 
-
 How to run the file 
 
 1. Install all the packages in the requirements text
@@ -22,3 +21,11 @@ How to run the file
 4. Use a laptop with an webcam in it 
 5. I have used a a system with ubuntu OS
 6.download the model from the link http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 for the detection
+
+
+
+
+Acknowledgement:
+The database for the project was built in mysqlfreedatabase.com 
+The message service was accomplished with the help of fast2sms.com. 
+It would not have been an easy turner if they had not provided free service.
